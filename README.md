@@ -1,0 +1,1 @@
+### jquery.adaptive-slider
