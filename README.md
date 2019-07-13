@@ -14,11 +14,11 @@ $(function(){
 });
 ```
 
-```
+```sh
 bower install adaptiveslider
 ```
 
-```
+```html
 <ul class="adaptive-slider">
   <li>
     <figure>
